@@ -1,0 +1,12 @@
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\AreaCirculoCs\bin\Debug\netcoreapp3.1\AreaCirculoCs.exe
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\AreaCirculoCs\bin\Debug\netcoreapp3.1\AreaCirculoCs.deps.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\AreaCirculoCs\bin\Debug\netcoreapp3.1\AreaCirculoCs.runtimeconfig.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\AreaCirculoCs\bin\Debug\netcoreapp3.1\AreaCirculoCs.runtimeconfig.dev.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\AreaCirculoCs\bin\Debug\netcoreapp3.1\AreaCirculoCs.dll
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\AreaCirculoCs\bin\Debug\netcoreapp3.1\AreaCirculoCs.pdb
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\AreaCirculoCs\obj\Debug\netcoreapp3.1\AreaCirculoCs.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\AreaCirculoCs\obj\Debug\netcoreapp3.1\AreaCirculoCs.AssemblyInfoInputs.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\AreaCirculoCs\obj\Debug\netcoreapp3.1\AreaCirculoCs.AssemblyInfo.cs
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\AreaCirculoCs\obj\Debug\netcoreapp3.1\AreaCirculoCs.dll
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\AreaCirculoCs\obj\Debug\netcoreapp3.1\AreaCirculoCs.pdb
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\AreaCirculoCs\obj\Debug\netcoreapp3.1\AreaCirculoCs.genruntimeconfig.cache

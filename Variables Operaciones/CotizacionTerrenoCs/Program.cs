@@ -6,15 +6,21 @@ namespace CotizacionTerrenoCs
     {
         static void Main(string[] args)
         {
-            double factorcostos = 3.5;
-            int costofijo = 10700;
-            double costo;
-            Console.Write("Ingrese descripción de producto: ");
-            string descripcion = Console.ReadLine();
-            Console.Write("Ingrese número de unidades: ");
-            int numuni = Convert.ToInt32(Console.ReadLine());
-            costo = numuni * factorcostos + costofijo;
-            Console.WriteLine("El producto " + descripcion + " tiene un costo de producción de: " + costo);
+            Console.WriteLine("Calculo de Cotización de un Terreno");
+            Console.WriteLine("");
+
+            Console.Write("Ingrese el ancho en metros: ");
+            double ancho = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("Ingrese el Largo en metros: ");
+            double largo = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("Ingrese el costo del metro cuadrado: ");
+            double costometro = Convert.ToDouble(Console.ReadLine());
+
+            double cotizacion = ancho * largo * costometro;
+
+            Console.WriteLine("La cotizacion del terreno es de: " + cotizacion);
         }
     }
 }

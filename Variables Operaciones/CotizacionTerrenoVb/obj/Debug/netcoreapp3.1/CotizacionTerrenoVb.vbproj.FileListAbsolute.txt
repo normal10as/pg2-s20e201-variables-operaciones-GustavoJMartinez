@@ -1,0 +1,12 @@
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CotizacionTerrenoVb\bin\Debug\netcoreapp3.1\CotizacionTerrenoVb.exe
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CotizacionTerrenoVb\bin\Debug\netcoreapp3.1\CotizacionTerrenoVb.deps.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CotizacionTerrenoVb\bin\Debug\netcoreapp3.1\CotizacionTerrenoVb.runtimeconfig.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CotizacionTerrenoVb\bin\Debug\netcoreapp3.1\CotizacionTerrenoVb.runtimeconfig.dev.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CotizacionTerrenoVb\bin\Debug\netcoreapp3.1\CotizacionTerrenoVb.dll
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CotizacionTerrenoVb\bin\Debug\netcoreapp3.1\CotizacionTerrenoVb.pdb
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CotizacionTerrenoVb\obj\Debug\netcoreapp3.1\CotizacionTerrenoVb.vbproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CotizacionTerrenoVb\obj\Debug\netcoreapp3.1\CotizacionTerrenoVb.AssemblyInfoInputs.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CotizacionTerrenoVb\obj\Debug\netcoreapp3.1\CotizacionTerrenoVb.AssemblyInfo.vb
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CotizacionTerrenoVb\obj\Debug\netcoreapp3.1\CotizacionTerrenoVb.dll
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CotizacionTerrenoVb\obj\Debug\netcoreapp3.1\CotizacionTerrenoVb.pdb
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CotizacionTerrenoVb\obj\Debug\netcoreapp3.1\CotizacionTerrenoVb.genruntimeconfig.cache

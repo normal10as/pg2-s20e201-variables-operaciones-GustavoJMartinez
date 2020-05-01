@@ -1,0 +1,13 @@
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasPiesVb\bin\Debug\netcoreapp3.1\EquivalenciasPiesVb.exe
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasPiesVb\bin\Debug\netcoreapp3.1\EquivalenciasPiesVb.deps.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasPiesVb\bin\Debug\netcoreapp3.1\EquivalenciasPiesVb.runtimeconfig.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasPiesVb\bin\Debug\netcoreapp3.1\EquivalenciasPiesVb.runtimeconfig.dev.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasPiesVb\bin\Debug\netcoreapp3.1\EquivalenciasPiesVb.dll
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasPiesVb\bin\Debug\netcoreapp3.1\EquivalenciasPiesVb.pdb
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasPiesVb\obj\Debug\netcoreapp3.1\EquivalenciasPiesVb.vbprojAssemblyReference.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasPiesVb\obj\Debug\netcoreapp3.1\EquivalenciasPiesVb.vbproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasPiesVb\obj\Debug\netcoreapp3.1\EquivalenciasPiesVb.AssemblyInfoInputs.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasPiesVb\obj\Debug\netcoreapp3.1\EquivalenciasPiesVb.AssemblyInfo.vb
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasPiesVb\obj\Debug\netcoreapp3.1\EquivalenciasPiesVb.dll
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasPiesVb\obj\Debug\netcoreapp3.1\EquivalenciasPiesVb.pdb
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasPiesVb\obj\Debug\netcoreapp3.1\EquivalenciasPiesVb.genruntimeconfig.cache
