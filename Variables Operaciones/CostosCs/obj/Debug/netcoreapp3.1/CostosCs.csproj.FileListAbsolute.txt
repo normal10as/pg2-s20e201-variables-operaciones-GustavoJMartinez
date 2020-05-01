@@ -1,0 +1,13 @@
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.exe
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.deps.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.runtimeconfig.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.runtimeconfig.dev.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.dll
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.pdb
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.csprojAssemblyReference.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.AssemblyInfoInputs.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.AssemblyInfo.cs
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.dll
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.pdb
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasHorasCs\bin\Debug\netcoreapp3.1\EquivalenciasHorasCs.exe
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasHorasCs\bin\Debug\netcoreapp3.1\EquivalenciasHorasCs.deps.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasHorasCs\bin\Debug\netcoreapp3.1\EquivalenciasHorasCs.runtimeconfig.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasHorasCs\bin\Debug\netcoreapp3.1\EquivalenciasHorasCs.runtimeconfig.dev.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasHorasCs\bin\Debug\netcoreapp3.1\EquivalenciasHorasCs.dll
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasHorasCs\bin\Debug\netcoreapp3.1\EquivalenciasHorasCs.pdb
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.csprojAssemblyReference.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.AssemblyInfoInputs.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.AssemblyInfo.cs
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.dll
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.pdb
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.genruntimeconfig.cache

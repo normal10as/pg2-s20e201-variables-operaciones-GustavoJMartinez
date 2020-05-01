@@ -1,0 +1,13 @@
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\GradosFahrenheitCs\bin\Debug\netcoreapp3.1\GradosFahrenheitCs.exe
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\GradosFahrenheitCs\bin\Debug\netcoreapp3.1\GradosFahrenheitCs.deps.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\GradosFahrenheitCs\bin\Debug\netcoreapp3.1\GradosFahrenheitCs.runtimeconfig.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\GradosFahrenheitCs\bin\Debug\netcoreapp3.1\GradosFahrenheitCs.runtimeconfig.dev.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\GradosFahrenheitCs\bin\Debug\netcoreapp3.1\GradosFahrenheitCs.dll
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\GradosFahrenheitCs\bin\Debug\netcoreapp3.1\GradosFahrenheitCs.pdb
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\GradosFahrenheitCs\obj\Debug\netcoreapp3.1\GradosFahrenheitCs.csprojAssemblyReference.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\GradosFahrenheitCs\obj\Debug\netcoreapp3.1\GradosFahrenheitCs.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\GradosFahrenheitCs\obj\Debug\netcoreapp3.1\GradosFahrenheitCs.AssemblyInfoInputs.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\GradosFahrenheitCs\obj\Debug\netcoreapp3.1\GradosFahrenheitCs.AssemblyInfo.cs
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\GradosFahrenheitCs\obj\Debug\netcoreapp3.1\GradosFahrenheitCs.dll
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\GradosFahrenheitCs\obj\Debug\netcoreapp3.1\GradosFahrenheitCs.pdb
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\GradosFahrenheitCs\obj\Debug\netcoreapp3.1\GradosFahrenheitCs.genruntimeconfig.cache

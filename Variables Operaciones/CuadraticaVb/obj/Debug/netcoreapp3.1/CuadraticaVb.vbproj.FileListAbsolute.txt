@@ -1,0 +1,13 @@
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CuadraticaVb\bin\Debug\netcoreapp3.1\CuadraticaVb.exe
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CuadraticaVb\bin\Debug\netcoreapp3.1\CuadraticaVb.deps.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CuadraticaVb\bin\Debug\netcoreapp3.1\CuadraticaVb.runtimeconfig.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CuadraticaVb\bin\Debug\netcoreapp3.1\CuadraticaVb.runtimeconfig.dev.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CuadraticaVb\bin\Debug\netcoreapp3.1\CuadraticaVb.dll
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CuadraticaVb\bin\Debug\netcoreapp3.1\CuadraticaVb.pdb
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.vbprojAssemblyReference.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.vbproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.AssemblyInfoInputs.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.AssemblyInfo.vb
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.dll
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.pdb
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.genruntimeconfig.cache

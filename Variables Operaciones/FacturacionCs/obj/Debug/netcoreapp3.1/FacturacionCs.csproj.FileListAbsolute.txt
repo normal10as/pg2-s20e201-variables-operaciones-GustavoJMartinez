@@ -1,0 +1,13 @@
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\FacturacionCs\bin\Debug\netcoreapp3.1\FacturacionCs.exe
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\FacturacionCs\bin\Debug\netcoreapp3.1\FacturacionCs.deps.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\FacturacionCs\bin\Debug\netcoreapp3.1\FacturacionCs.runtimeconfig.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\FacturacionCs\bin\Debug\netcoreapp3.1\FacturacionCs.runtimeconfig.dev.json
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\FacturacionCs\bin\Debug\netcoreapp3.1\FacturacionCs.dll
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\FacturacionCs\bin\Debug\netcoreapp3.1\FacturacionCs.pdb
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\FacturacionCs\obj\Debug\netcoreapp3.1\FacturacionCs.csprojAssemblyReference.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\FacturacionCs\obj\Debug\netcoreapp3.1\FacturacionCs.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\FacturacionCs\obj\Debug\netcoreapp3.1\FacturacionCs.AssemblyInfoInputs.cache
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\FacturacionCs\obj\Debug\netcoreapp3.1\FacturacionCs.AssemblyInfo.cs
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\FacturacionCs\obj\Debug\netcoreapp3.1\FacturacionCs.dll
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\FacturacionCs\obj\Debug\netcoreapp3.1\FacturacionCs.pdb
+C:\Users\Nano\source\repos\normal10as\pg2-s20e201-variables-operaciones-GustavoJMartinez\Variables Operaciones\FacturacionCs\obj\Debug\netcoreapp3.1\FacturacionCs.genruntimeconfig.cache
